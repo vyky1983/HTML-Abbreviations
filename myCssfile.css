@@ -29,16 +29,3 @@ p {
   font-weight: normal;
   vertical-align: top;
 }
-
-h1 {
-  vertical-align: top;
-  text-align: center;
-  text-decoration: underline;
-  text-transform: uppercase;
-  background: #000;
-  background-color: #fff;
-  background-image: url();
-  background-repeat: no-repeat;
-  background-position: 0 0;
-  opacity: 2;
-}
